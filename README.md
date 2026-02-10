@@ -10,6 +10,8 @@ Milk is highly perishable, and traditional quality testing methods are slow and 
 📡 System Overview
 
 The system measures pH, temperature, and TDS values of milk using sensors connected to a NodeMCU microcontroller. Based on these parameters, a machine learning model classifies the milk quality.
+Block diagram
+![Block Diagram](images/block_diagram.png)
 
 🛠️ Hardware Used
 
